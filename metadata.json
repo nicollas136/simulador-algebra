@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Embeddings e Visão Computacional",
+  "description": "Simulador visual e interativo de embeddings, espaços vetoriais, bissetrizes, transformada de Hough e visão computacional em Python baseada em análise de bem-estar.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
